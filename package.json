@@ -24,6 +24,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "terser": "^3.13.1"
+    "terser": "^4.8.1"
   }
 }
